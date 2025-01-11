@@ -1,0 +1,11 @@
+commit c2e8bb2c48842a7164f5a477aae58eef8b691db4
+Author: Alexandre Paradinha <ae.paradinha@hotmail.com>
+Date:   Thu Jan 9 21:08:42 2025 -0300
+
+    testando
+
+    commit 7d20c29bcc28ca8af548bb9936379823dd877091 (HEAD -> main, origin/main, origin/HEAD)
+Author: Alexandre Paradinha <ae.paradinha@hotmail.com>
+Date:   Thu Jan 9 21:26:27 2025 -0300
+
+    voltando para 50
